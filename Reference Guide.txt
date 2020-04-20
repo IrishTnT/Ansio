@@ -8,7 +8,7 @@
 Welcome to the entire lore sheet for the 'Ansio' ConWorld.
 Here is a quick guide on how to reference portions of the
 World:
-1. Reference IDs are ADDITIONAL. For example:
+A. Reference IDs are ADDITIONAL. For example:
 	If you want to look at the History of the Eclipse Empire, you would go to:
 	3. - Places and Shit
 	2. - States
@@ -24,8 +24,12 @@ World:
 	0. - Template
 	1. - Children
 	That would be: '412101' or 'REF412101'
-2. When referencing or trying to access references, the numbers each represent the FILE NUMBER. This resets every time you click on a file. So if you were to enter file 4. in the first list. You are now in 4. and the numbering system resets.
-3. Lore also serves as Misc.
+
+B. When referencing or trying to access references, the numbers each represent the FILE NUMBER.
+This resets every time you click on a file. So if you were to enter file 4. in the first list.
+You are now in 4. and the numbering system resets.
+
+C. Lore also serves as Misc.
 
 
 RefGuide V1R1
