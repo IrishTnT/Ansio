@@ -1,0 +1,30 @@
+-----------------
+      Ansio    
+    ConWorld
+-----------------
+    Reference
+      Guide
+-----------------
+Welcome to the entire lore sheet for the 'Ansio' ConWorld.
+Here is a quick guide on how to reference portions of the
+World:
+1. Reference IDs are ADDITIONAL. For example:
+	If you want to look at the History of the Eclipse Empire, you would go to:
+	3. - Places and Shit
+	2. - States
+	4. - Eclipse Empire
+	4. - History
+	That would be written as: '3244' or 'REF3244'
+
+	If you wanted to view a the Deity Template for Children, you would go to:
+	4. - Lore
+	1. - Panteon
+	2. - Deity List
+	1. - Present
+	0. - Template
+	1. - Children
+	That would be: '412101' or 'REF412101'
+2. Lore also serves as Misc.
+
+
+RefGuide V1R1
